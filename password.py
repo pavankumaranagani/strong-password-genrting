@@ -18,3 +18,4 @@ for pwd in range(number):
     for c in range(length):
       password += random.choice(chars)
     print(password)    
+      
